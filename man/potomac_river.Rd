@@ -6,7 +6,7 @@
 \title{Potomac River Streamflows}
 \format{A tibble with 365 rows and 2 variables:
 \describe{
-  \item{\code{Year}}{year of streamflows recording}
+  \item{\code{Year}}{year of streamflows measurement}
   \item{\code{Flow}}{daily streamflows, in cfs}
 }}
 \source{
@@ -19,7 +19,7 @@ potomac_river
 Ranked daily streamflow for the Potomac River, Wash. D.C data.
 }
 \note{
-The data come from Statistical Methods for Water Resources Book written by:
+The data comes from Statistical Methods for Water Resources Book written by:
 DR.Helsel and R.M. Hirsch (2002).
 }
 \keyword{datasets}

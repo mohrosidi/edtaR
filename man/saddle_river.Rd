@@ -6,7 +6,7 @@
 \title{Saddle River Discharge}
 \format{A tibble with 65 rows and 2 variables:
 \describe{
-  \item{\code{Year}}{year of discharges recording}
+  \item{\code{Year}}{year of discharges measurement}
   \item{\code{Flow}}{annual peak discharges, in cfs}
 }}
 \source{
@@ -19,7 +19,7 @@ saddle_river
 Annual peak discharges for the Saddle River, NJ data.
 }
 \note{
-The data come from Statistical Methods for Water Resources Book written by:
+The data comes from Statistical Methods for Water Resources Book written by:
 DR.Helsel and R.M. Hirsch (2002).
 }
 \keyword{datasets}
