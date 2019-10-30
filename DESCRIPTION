@@ -1,7 +1,7 @@
 Package: edtaR
 Type: Package
-Title: Tidy ENvironmental Data For Statistical Analysis
-Version: 0.1.0
+Title: Tidy Environmental Data For Statistical Analysis
+Version: 1.0.0
 Author@R: as.person("Moh. Rosidi <moh.rosidi2610@gmail.com> [aut, cre]")
 Description: A tidy version of environmental data from environmental statistical
               analysis books.
