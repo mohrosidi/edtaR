@@ -18,7 +18,7 @@ data(package = "edtaR")
 
 ## Ucapan Terimakasih
 
-Proyek ini dapat terlaksana atas upaya data terbuka yang tersaji di [U.S. Geological Survey](https://pubs.usgs.gov/twri/twri4a3/).
+Proyek ini dapat terlaksana atas upaya data terbuka yang tersaji di [Open Data Kota Bandung](http://data.bandung.go.id/).
 
 ## Lisensi
 
